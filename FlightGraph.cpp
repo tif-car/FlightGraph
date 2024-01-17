@@ -29,5 +29,6 @@ class Edge{
 };
 
 int main(){
+  cout << "Test Flights" << endl;
   
 }
