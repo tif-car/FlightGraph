@@ -29,5 +29,9 @@ class Edge{
 };
 
 int main(){
-  
+  cout << "Test Flights" << endl;
+  cout << "Testing" << endl;
+  cout << "branching" << endl;
+  cout << "Hello world" << endl;
+  return 0;
 }
