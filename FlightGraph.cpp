@@ -30,8 +30,7 @@ class Edge{
 
 int main(){
   cout << "Test Flights" << endl;
-  cout << "Testing" << endl;
-  cout << "branching" << endl;
-  cout << "Hello world" << endl;
+  cout << "Locations of flight" << endl;
+  cout << "How long are the flights? " << endl;
   return 0;
 }
